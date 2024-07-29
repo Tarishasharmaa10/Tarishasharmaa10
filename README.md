@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tarishasharmaa10/Tarishasharmaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tarisha Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarishasharmaa10&label=Profile%20views&color=0e75b6&style=flat" alt="tarishasharmaa10" /> </p>
